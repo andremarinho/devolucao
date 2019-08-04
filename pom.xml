@@ -12,6 +12,26 @@
   
   </properties>
   
+  <dependencies>
+  	<!-- Dependencia do Primefaces -->
+  	
+  	<dependency>
+  		<groupId>org.primefaces</groupId>
+  		<artifactId>primefaces</artifactId>
+  		<version>6.0</version>
+  		<scope>compile</scope>
+  		 	
+  	</dependency>
+  
+  
+  
+  
+  
+  
+  
+  
+  </dependencies>
+  
   
   
 </project>
